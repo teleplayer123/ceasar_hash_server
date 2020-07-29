@@ -16,6 +16,46 @@ Contents
 - Stores hashed passwords and salts in local directory files.
 - Handles loading and saving of user information.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a name='client'></a>Client:
 ----
 - Creates cli for making requests to register new user.
