@@ -22,3 +22,8 @@ Contents
 - Mimics user login by comparing user input against registered username and password.
 - The 'Get Hash' option is just to see the output of registered hashed password, and not meant to
   be a secure function.
+ 
+ 
+Credits
+----
+-Mark Summerfield: Programming in Python3
